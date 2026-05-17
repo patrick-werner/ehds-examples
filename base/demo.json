@@ -4,5 +4,5 @@
     "profile": [
       "http://hl7.eu/fhir/base/StructureDefinition/patient-eu"
     ]
-  },
+  }
 }
